@@ -24,11 +24,22 @@ export default defineConfig({
         items: [
           { text: '帮助', link: '/help/help' },
         ]
+      },
+      {
+        text: '免责声明',
+        items: [
+          { text: '免责声明', link: '/notrainyunofficial' },
+        ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bingxin666/rainyun-wiki' }
-    ]
+      { icon: 'github', link: 'https://github.com/rainyun-space/rainyun-wiki' }
+    ],
+
+    footer: {
+      message: '除文档外文件遵循 MIT 协议发布，文档遵循 CC-BY-NC-SA 4.0 协议发布。',
+      copyright: '雨云宇宙 Wiki © 2024'
+    }
   }
 })
