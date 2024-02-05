@@ -2,8 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "雨云宇宙 Wiki",
   description: "雨云宇宙 Wiki",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -15,6 +17,12 @@ export default defineConfig({
       { text: '帮助', link: '/help/help' }
     ],
 
+    logo: '/logo.png',
+
+    search: {
+      provider: 'local'
+    },
+    
     sidebar: [
       {
         text: 'Wiki',
@@ -61,6 +69,11 @@ export default defineConfig({
     footer: {
       message: '除文档和图片外文件遵循 MIT 协议发布，文档和图片遵循 CC-BY-NC-SA 4.0 协议发布。',
       copyright: '雨云宇宙 Wiki © 2024'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/rainyun-space/rainyun-wiki/main/:path'
     }
+    
   }
 })
