@@ -9,17 +9,20 @@ hero:
   actions:
     - theme: brand
       text: Wiki
-      link: /wiki
+      link: /wiki/wiki
     - theme: alt
       text: 帮助
-      link: /help
+      link: /help/help
 
 features:
   - title: 难以置信的快速
+    icon: 🚀
     details: 由开发者社区直接维护，难以想象的即时性
   - title: 令人惊叹的准确
+    icon: 🫡
     details: 除去那纷纷扰扰，我们的文档直达问题核心
   - title: 闲聊八卦的惊讶
+    icon: 😉
     details: 雨云内部的二三事，说不定都在这里
 ---
 
