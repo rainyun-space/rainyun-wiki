@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Wiki',
         items: [
-          { text: 'Wiki', link: '/wiki/help' },
+          { text: 'Wiki', link: '/wiki/wiki' },
         ]
       },
       {
