@@ -10,6 +10,15 @@ hero:
     - theme: brand
       text: Wiki
       link: /wiki/wiki
+    - theme: brand
+      text: 乐子
+      link: /laugh/laugh
+    - theme: alt
+      text: 八卦
+      link: /bagua/bagua 
+    - theme: alt
+      text: 商业机密
+      link: /secret/secret
     - theme: alt
       text: 帮助
       link: /help/help

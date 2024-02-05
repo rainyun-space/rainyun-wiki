@@ -9,6 +9,9 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: 'Wiki', link: '/wiki/wiki' },
+      { text: '乐子', link: '/laugh/laugh' },
+      { text: '八卦', link: '/bagua/bagua' },
+      { text: '商业机密', link: '/secret/secret' },
       { text: '帮助', link: '/help/help' }
     ],
 
@@ -17,6 +20,24 @@ export default defineConfig({
         text: 'Wiki',
         items: [
           { text: 'Wiki', link: '/wiki/wiki' },
+        ]
+      },
+      {
+        text: '乐子',
+        items: [
+          { text: '乐子', link: '/laugh/laugh' },
+        ]
+      },
+      {
+        text: '八卦',
+        items: [
+          { text: '八卦', link: '/bagua/bagua' },
+        ]
+      },
+      {
+        text: '商业机密',
+        items: [
+          { text: '商业机密', link: '/secret/secret' },
         ]
       },
       {
