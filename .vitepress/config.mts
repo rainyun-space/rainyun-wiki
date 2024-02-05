@@ -22,7 +22,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    
+
     sidebar: [
       {
         text: 'Wiki',
@@ -72,7 +72,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/rainyun-space/rainyun-wiki/main/:path'
+      pattern: 'https://github.com/rainyun-space/rainyun-wiki/blob/main/:path'
     }
     
   }
