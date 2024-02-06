@@ -1,4 +1,2 @@
 /node_modules/
 /.vitepress/cache/
-package.json
-package-lock.json
