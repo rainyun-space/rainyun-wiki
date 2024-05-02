@@ -1,5 +1,8 @@
 # 雨云宇宙 Wiki
 
+雨云宇宙 Wiki | Powered by VitePress
+![vitepress_banner](https://api.ymbit.cn/images/nyanest/vitepress_banner.png)
+
 ### 在[这里](https://github.com/rainyun-space/rainyun-wiki/blob/main/notrainyunofficial.md)了解我们的免责声明
 
 [雨云宇宙 Wiki](https://wiki.rainyun.space/) ——为会员制雨云构建的专属 Wiki。
@@ -9,6 +12,14 @@
 - [Git](https://git-scm.com/downloads)
 - [npm](https://nodejs.org/)
 
+## Building
+本项目使用 npm 构建 VitePress，请在开发时安装好依赖包
+
+安装依赖包：`npm install`<br>
+开发测试：`npm run docs:dev`<br>
+编译：`npm run docs:build`
+
+编译过后的index文件会在`docs/.vitepress/dist`中
 ## 公共图床
 
 [这里](https://github.com/rainyun-space/picture)是我们的公共图床仓库！
