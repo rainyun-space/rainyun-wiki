@@ -5,16 +5,17 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "雨云宇宙 Wiki",
   description: "雨云宇宙 Wiki",
+  head: [['link', { rel: 'icon', href: 'logo.png' }]],
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '主页', link: '/' },
-      { text: 'Wiki', link: '/wiki/wiki' },
-      { text: '乐子', link: '/laugh/laugh' },
-      { text: '八卦', link: '/bagua/bagua' },
-      { text: '商业机密', link: '/secret/secret' },
-      { text: '帮助', link: '/help/help' }
+      { text: '🏠主页', link: '/' },
+      { text: '📖Wiki', link: '/wiki/wiki' },
+      { text: '😄乐子', link: '/laugh/laugh' },
+      { text: '🤔八卦', link: '/bagua/bagua' },
+      { text: '🔒商业机密', link: '/secret/secret' },
+      { text: '😲帮助', link: '/help/help' }
     ],
 
     logo: '/logo.png',
@@ -33,7 +34,9 @@ export default defineConfig({
       {
         text: '乐子',
         items: [
-          { text: '乐子', link: '/laugh/laugh' },
+          { text: 'CF没有CNAME哥', link: '/laugh/cf-without-cname' },
+          { text: '半夜破防哥', link: '/laugh/i-lost-my-eye' },
+          {text: 'PVP大蛇', link: '/laugh/pvp-da-she' },
         ]
       },
       {
