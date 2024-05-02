@@ -17,7 +17,9 @@
 
 安装依赖包：`npm install`<br>
 开发测试：`npm run docs:dev`<br>
-编译：`npm run docs:build`
+编译：`npm run docs:build`  
+
+或者你可以在最新的Workflow底下下载最新的构建文件(Website-files.zip)
 
 编译过后的index文件会在`.vitepress/dist`中
 ## 公共图床
