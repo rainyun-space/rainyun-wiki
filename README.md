@@ -19,7 +19,7 @@
 开发测试：`npm run docs:dev`<br>
 编译：`npm run docs:build`
 
-编译过后的index文件会在`docs/.vitepress/dist`中
+编译过后的index文件会在`.vitepress/dist`中
 ## 公共图床
 
 [这里](https://github.com/rainyun-space/picture)是我们的公共图床仓库！
