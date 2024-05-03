@@ -44,7 +44,7 @@ export default defineConfig({
         text: '八卦',
         items: [
           { text: '林语', link: '/bagua/linyu' },
-		  { text: '搬砖狐', link: '/bagua/banzhuanhu' },
+          { text: '搬砖狐', link: '/bagua/banzhuanhu' },
         ]
       },
       {
