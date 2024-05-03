@@ -132,3 +132,6 @@ dist
 # VitePress
 /node_modules/
 /.vitepress/cache/
+
+# JetBrains IDE
+.idea/
