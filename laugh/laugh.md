@@ -14,6 +14,6 @@
 
 这是一个关于PVP大蛇的故事，你可以在这里找到更多的信息。
 
-## [DDoS大蛇](/lough/ddos-loser)
+## [DDoS大蛇](/laugh/ddos-loser)
 
 请在侧边栏查看更多乐子！
