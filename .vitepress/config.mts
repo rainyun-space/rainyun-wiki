@@ -34,9 +34,10 @@ export default defineConfig({
       {
         text: '乐子',
         items: [
-          { text: 'CF没有CNAME哥', link: '/laugh/cf-without-cname' },
+          { text: 'CF 没有 CNAME 哥', link: '/laugh/cf-without-cname' },
           { text: '半夜破防哥', link: '/laugh/i-lost-my-eye' },
-          {text: 'PVP大蛇', link: '/laugh/pvp-da-she' },
+          {text: 'PVP 大蛇', link: '/laugh/pvp-da-she' },
+          {text: 'DDoS 大蛇', link: '/laugh/ddos-loser'}
         ]
       },
       {
