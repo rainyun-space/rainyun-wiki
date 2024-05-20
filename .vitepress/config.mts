@@ -14,7 +14,7 @@ export default defineConfig({
       { text: '📖Wiki', link: '/wiki/wiki' },
       { text: '😄乐子', link: '/laugh/laugh' },
       { text: '🤔八卦', link: '/bagua/bagua' },
-      { text: '🔒商业机密', link: '/secret/secret' },
+      { text: '🔒小工具', link: '/tools/tools' },
       { text: '😲帮助', link: '/help/help' }
     ],
 
@@ -48,9 +48,9 @@ export default defineConfig({
         ]
       },
       {
-        text: '商业机密',
+        text: '小工具',
         items: [
-          { text: '商业机密', link: '/secret/secret' },
+          { text: '小工具', link: '/tools/tools' },
         ]
       },
       {

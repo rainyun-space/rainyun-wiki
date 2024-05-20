@@ -3,7 +3,7 @@
 雨云宇宙 Wiki | Powered by VitePress
 ![vitepress_banner](https://api.ymbit.cn/images/nyanest/vitepress_banner.png)
 
-### 在[这里](https://github.com/rainyun-space/rainyun-wiki/blob/main/notrainyunofficial.md)了解我们的免责声明
+### 在[这里](/notrainyunofficial.md)了解我们的免责声明
 
 [雨云宇宙 Wiki](https://wiki.rainyun.space/) ——为会员制雨云构建的专属 Wiki。
 
