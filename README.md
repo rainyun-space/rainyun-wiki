@@ -3,7 +3,7 @@
 雨云宇宙 Wiki | Powered by VitePress
 ![vitepress_banner](https://api.ymbit.cn/images/nyanest/vitepress_banner.png)
 
-### 在[这里](/notrainyunofficial.md)了解我们的免责声明
+[免责声明](/not_rainyun_official.md)
 
 [雨云宇宙 Wiki](https://wiki.rainyun.space/) ——为会员制雨云构建的专属 Wiki。
 
@@ -19,7 +19,7 @@
 开发测试：`npm run docs:dev`<br>
 编译：`npm run docs:build`  
 
-或者你可以在最新的Workflow底下下载最新的构建文件(Website-files.zip)
+或者你可以在最新的[Actions](/actions)底下下载最新的 Artifacts 文件
 
 编译过后的index文件会在`.vitepress/dist`中
 ## 公共图床
@@ -29,11 +29,9 @@
 在未来我们会将其部署至 Cloudflare Pages ，目前可通过镜像反代 raw.githubusercontent.com 暂时使用
 
 ## 关于PR / Commit
-
 **我们接受任何人的 PR / Commit 
 
 ### 接受的 PR / Commit 
-
 快速通过：以下内容会被快速通过
 
  - 技术性修改
