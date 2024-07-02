@@ -63,7 +63,7 @@ export default defineConfig({
       {
         text: '免责声明',
         items: [
-          { text: '免责声明', link: '/notrainyunofficial' },
+          { text: '免责声明', link: '/not_rainyun_official' },
         ]
       }
     ],
