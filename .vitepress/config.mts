@@ -45,6 +45,7 @@ export default defineConfig({
         items: [
           { text: '林语', link: '/bagua/linyu' },
           { text: '搬砖狐', link: '/bagua/banzhuanhu' },
+          { text: '感情酱', link: '/bagua/ganqingjiang' },
         ]
       },
       {
