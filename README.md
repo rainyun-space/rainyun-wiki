@@ -19,7 +19,7 @@
 开发测试：`npm run docs:dev`<br>
 编译：`npm run docs:build`  
 
-或者你可以在最新的[Actions](/actions)底下下载最新的 Artifacts 文件
+或者你可以在最新的[Actions](https://github.com/rainyun-space/rainyun-wiki/actions)底下下载最新的 Artifacts 文件
 
 编译过后的index文件会在`.vitepress/dist`中
 ## 公共图床
