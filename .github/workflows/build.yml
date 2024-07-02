@@ -30,13 +30,13 @@ jobs:
             ${{ runner.OS }}-npm-cache
             
       - name: Install Dependencies
-        run: yarn install
+        run: npm install
         
       - name: Build
-        run: yarn run docs:build
+        run: npm run docs:build
       
       - name: Compress Release Assets
-        run: 7z a -r SpaceWebsite.zip ./docs/.vitepress/dist/*
+        run: 7z a -r SpaceWebsite.zip ./.vitepress/dist/*
       
       - name: Release
         uses: softprops/action-gh-release@v1
