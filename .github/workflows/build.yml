@@ -38,9 +38,5 @@ jobs:
 
       - name: Compress Release Assets
         run: 7z a -r SpaceWebsite.zip ./.vitepress/dist/*
-
-      - name: Upload Release Asset
-        uses: actions/upload-artifact@v2
-        with:
           name: SpaceWebsite.zip
           path: ./SpaceWebsite.zip
