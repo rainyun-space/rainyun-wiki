@@ -17,7 +17,7 @@ hero:
       text: 八卦
       link: /bagua/bagua 
     - theme: alt
-      text: 商业机密
+      text: 小工具
       link: /tools/tools
     - theme: alt
       text: 帮助
