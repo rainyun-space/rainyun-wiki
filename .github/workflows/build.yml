@@ -1,5 +1,9 @@
 name: Build VitePress Website
-on: [push, workflow_dispatch]
+on:
+  push:
+    branches:
+      - main  # Replace with your branch name if different
+  workflow_dispatch:
 permissions: write-all
 jobs:
   Build:
@@ -16,18 +20,15 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
-
-      - name: Install 7z
-        run: sudo apt install p7zip-full -y
+          node-version: '14'
 
       - name: Cache NPM Dependencies
         uses: actions/cache@v2
         with:
           path: node_modules
-          key: ${{ runner.OS }}-npm-cache
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.OS }}-npm-cache
+            ${{ runner.os }}-npm-
 
       - name: Install Dependencies
         run: npm install
@@ -38,17 +39,8 @@ jobs:
       - name: Compress Release Assets
         run: 7z a -r SpaceWebsite.zip ./.vitepress/dist/*
 
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        with:
-          body: "update."
-          prerelease: false
-          draft: false
-          tag_name: Latest
-          files: SpaceWebsite.zip
-
       - name: Upload Release Asset
-          uses: actions/upload-artifact@v2
-          with:
-            name: SpaceWebsite.zip
-            path: ./SpaceWebsite.zip
+        uses: actions/upload-artifact@v2
+        with:
+          name: SpaceWebsite.zip
+          path: ./SpaceWebsite.zip
