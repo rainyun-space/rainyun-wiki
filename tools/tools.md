@@ -30,6 +30,12 @@
 ### 使用
 [文档](https://bot.rainyun.space)
 
+## Github Action雨云自动签到
+
+Github Action雨云自动签到是由`icyblue`开发的使用Github Action对雨云进行自动签到的项目。
+开箱即用，超高稳定性。
+[文档](https://github.com/IcyBlue17/rainyun_autosignin)
+
 ## 雨云监控
 
 雨云监控（RainyunStatus）频道是于2023年1月12日创立的Telegram频道，记录了从创立之日到现在的全部服务器离线数据。
