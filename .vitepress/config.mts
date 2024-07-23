@@ -10,7 +10,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '🏠主页', link: '/' },
+      { text: '🚀官网', link: 'https://www.rainyun.space/' },
+	  { text: '🏠主页', link: '/' },
       { text: '📖Wiki', link: '/wiki/wiki' },
       { text: '😄乐子', link: '/laugh/laugh' },
       { text: '🤔八卦', link: '/bagua/bagua' },
