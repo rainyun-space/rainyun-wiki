@@ -65,7 +65,7 @@ export default defineConfig({
 
     footer: {
       message: '除文档和图片外文件遵循 MIT 协议发布，文档和图片遵循 CC-BY-NC-SA 4.0 协议发布。',
-      copyright: '雨云宇宙 Wiki © 2024'
+      copyright: '雨云宇宙 Wiki © 2024-2025'
     },
 
     editLink: {
