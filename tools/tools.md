@@ -6,6 +6,18 @@
 
     请注意，这些工具并非由雨云官方提供，使用前请仔细阅读使用说明。  
 
+## 雨云账号姬
+
+雨云账号姬是一个通过雨云API进行账户管理的Telegram机器人。
+
+### 功能
+使用雨云API在telegram上管理账号，可以通过设置每日任务等灵活的实现自动签到、自动提现等功能，还有批量抓取雨云账户数据并产生表格下载等便捷功能。
+
+是目前唯一可以实现雨云自动签到的工具。
+
+### 使用
+[文档](https://bot.rainyun.space)
+
 ## 雨云截图隐私保护脚本
 
 雨云截图隐私保护脚本是由`ndxzzy`编写的油猴脚本，可用于自动打码雨云截图中的隐私信息。
@@ -19,22 +31,6 @@
 
 ### 使用
 [Github仓库](https://github.com/rainyun-space/rainyun-auto-reward)
-
-## 雨云账号姬
-
-雨云账号姬是由`ndxzzy`使用PHP自主研发的雨云API账户管理Telegram机器人。
-
-### 功能
-使用雨云API在telegram上管理账号，可以通过设置每日任务等灵活的实现自动签到、自动提现等功能，还有批量抓取雨云账户数据并产生表格下载等便捷功能。
-
-### 使用
-[文档](https://bot.rainyun.space)
-
-## Github Action雨云自动签到
-
-Github Action雨云自动签到是由`icyblue`开发的使用Github Action对雨云进行自动签到的项目。
-开箱即用，超高稳定性。
-[文档](https://github.com/IcyBlue17/rainyun_autosignin)
 
 ## 雨云监控
 
@@ -52,7 +48,7 @@ Github Action雨云自动签到是由`icyblue`开发的使用Github Action对雨
 
 [TG频道](https://t.me/RainyunGP)
 
-[网站](https://api.zzwl.top/rainyun/)
+[网站](https://pic.rainyun.space/)
 
 ## 雨云邀请者查询
 

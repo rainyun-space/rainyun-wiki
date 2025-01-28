@@ -11,9 +11,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '🚀官网', link: 'https://www.rainyun.space/' },
-	  { text: '🏠主页', link: '/' },
+	    { text: '🏠主页', link: '/' },
       { text: '📖Wiki', link: '/wiki/wiki' },
-      { text: '😄乐子', link: '/laugh/laugh' },
       { text: '🤔八卦', link: '/bagua/bagua' },
       { text: '🔒小工具', link: '/tools/tools' },
       { text: '😲帮助', link: '/help/help' }
@@ -33,20 +32,11 @@ export default defineConfig({
         ]
       },
       {
-        text: '乐子',
-        items: [
-          { text: 'CF 没有 CNAME 哥', link: '/laugh/cf-without-cname' },
-          { text: '半夜破防哥', link: '/laugh/i-lost-my-eye' },
-          {text: 'PVP 大蛇', link: '/laugh/pvp-da-she' },
-          {text: 'DDoS 大蛇', link: '/laugh/ddos-loser'}
-        ]
-      },
-      {
         text: '八卦',
         items: [
           { text: '林语', link: '/bagua/linyu' },
           { text: '搬砖狐', link: '/bagua/banzhuanhu' },
-          { text: '感情酱', link: '/bagua/ganqingjiang' },
+          { text: '感情酱/小U', link: '/bagua/ganqingjiang' },
         ]
       },
       {
