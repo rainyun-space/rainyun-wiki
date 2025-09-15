@@ -1,13 +1,10 @@
 # Wiki
+
 ## **雨云官方QQ群列表**
 
 > [!CAUTION]
 >
 > 政策原因，QQ群列表暂不开放展示
-
-
-
-
 
 ## **雨云官方域名列表**
 
@@ -23,14 +20,13 @@
 | raincdn.cn                 | 雨盾cdn                    |
 | rains3.com，*.rains3.com   | 对象存储                   |
 | rainapp.cn                 | *Unknown*                  |
+| rainapp.top                | 云应用提供的备案域名           |
 
 ## 帮搬砖狐画大饼
 
 - [ ] 海外CDN
-- [ ] RainApp
 - [ ] 容灾切换
 - [ ] SLA
-- [ ] 服务器IPv6
 - [ ] IPLC流量转发
 - [ ] 控制台内置IM
 - [ ] 按量计费云服务器和竞价式服务器
@@ -53,6 +49,8 @@
 - [x] 国内CDN
 - [X] 备案系统
 - [X] 海外大盘鸡（大带宽+高防）
+- [x] RainApp
+- [x] 服务器IPv6
 
 ## 雨云潜规
 
