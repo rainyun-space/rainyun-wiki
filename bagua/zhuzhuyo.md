@@ -35,9 +35,15 @@ xyn(小药娘)
 
 ## 名言
 
-给你个安慰奖吧
+### 群内名言
 
-以下名言来自[《时代润雨云，我们喜欢你》](https://www.bilibili.com/video/BV1Z38HzJEhU/)
+- 给你个安慰奖吧  
+
+- 辛勤的小u 可爱的搬砖🦊和淋雨 还有星火沏茶🫖
+
+### 运营名言
+
+**以下名言来自[《时代润雨云，我们喜欢你》](https://www.bilibili.com/video/BV1Z38HzJEhU/)**
 
 - 我们的直播间就要抽象起来（时间0:06）
 
@@ -45,7 +51,7 @@ xyn(小药娘)
 
 - 射死我（时间01:17）
 
-以下名言来自[我们是如此热爱老板狐🦊 雨云MC直播互动游戏切片](https://www.bilibili.com/video/BV1qTg8zxEZo/)
+**以下名言来自[我们是如此热爱老板狐🦊 雨云MC直播互动游戏切片](https://www.bilibili.com/video/BV1qTg8zxEZo/)**
 
 - 搬砖狐开始掉血了（总感觉猪猪很想让搬砖狐死）
 
