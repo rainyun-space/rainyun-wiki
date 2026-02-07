@@ -40,6 +40,7 @@ export default defineConfig({
           { text: '听雨', link: '/bagua/tingyu' },
           { text: '猪猪哟', link: '/bagua/zhuzhuyo' },
           { text: 'KKKKKKK', link: '/bagua/kkkkkkk' },
+          { text: '天气狐', link: '/bagua/weatherfox' },
         ]
       },
       {

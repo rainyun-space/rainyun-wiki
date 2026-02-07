@@ -30,7 +30,7 @@ miboy
 
 SuperOS、BatChat、SuperOSV1.1.2、BatPet、SuperPing、SmartServer等
 
-**开源作品：**
+**开源作品:**
 
 - [未知表白墙](https://github.com/unknown-o/loveway-php)
 - [未知下载站](https://github.com/unknown-o/download-station)
