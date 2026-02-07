@@ -25,3 +25,7 @@
 ## [KKKKKKK](/bagua/kkkkkkk.md)
 
 这是有关雨云客服KKKKKKK的八卦内容，你可以在这里找到更多的信息。
+
+## [天气狐](/bagua/weatherfox.md)
+
+这是有关雨云吉祥物天气狐的八卦内容，你可以在这里找到更多的信息。
