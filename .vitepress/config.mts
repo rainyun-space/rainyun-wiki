@@ -39,6 +39,8 @@ export default defineConfig({
           { text: '感情酱/小U', link: '/bagua/ganqingjiang' },
           { text: '听雨', link: '/bagua/tingyu' },
           { text: '猪猪哟', link: '/bagua/zhuzhuyo' },
+          { text: 'KKKKKKK', link: '/bagua/kkkkkkk' },
+          { text: '天气狐', link: '/bagua/weatherfox' },
         ]
       },
       {
